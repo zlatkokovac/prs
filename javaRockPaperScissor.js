@@ -1,0 +1,2 @@
+let computerChoice
+let playerChoice
